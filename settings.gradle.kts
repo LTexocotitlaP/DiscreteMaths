@@ -6,3 +6,4 @@
  */
 
 rootProject.name = "DiscreteMaths"
+include("app")
